@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "HelloWorld",
+    "name": "React Native Basic Auth",
     "slug": "native-login",
     "platforms": [
       "ios",
